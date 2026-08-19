@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Email_Campaign_Engagement_Analyzer/1.0.0": {
+        "runtime": {
+          "Email_Campaign_Engagement_Analyzer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Email_Campaign_Engagement_Analyzer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
