@@ -1,0 +1,14 @@
+C:\Users\makka\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\net10.0\RestaurantManagementSystem.exe
+C:\Users\makka\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\net10.0\RestaurantManagementSystem.deps.json
+C:\Users\makka\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\net10.0\RestaurantManagementSystem.runtimeconfig.json
+C:\Users\makka\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\net10.0\RestaurantManagementSystem.dll
+C:\Users\makka\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\net10.0\RestaurantManagementSystem.pdb
+C:\Users\makka\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makka\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.AssemblyInfoInputs.cache
+C:\Users\makka\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.AssemblyInfo.cs
+C:\Users\makka\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\makka\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.dll
+C:\Users\makka\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\refint\RestaurantManagementSystem.dll
+C:\Users\makka\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.pdb
+C:\Users\makka\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.genruntimeconfig.cache
+C:\Users\makka\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net10.0\ref\RestaurantManagementSystem.dll
