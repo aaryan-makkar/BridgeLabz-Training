@@ -1,0 +1,14 @@
+C:\Users\makka\source\repos\FileSystemExplorer\FileSystemExplorer\obj\Debug\net10.0\FileSystemExplorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makka\source\repos\FileSystemExplorer\FileSystemExplorer\obj\Debug\net10.0\FileSystemExplorer.AssemblyInfoInputs.cache
+C:\Users\makka\source\repos\FileSystemExplorer\FileSystemExplorer\obj\Debug\net10.0\FileSystemExplorer.AssemblyInfo.cs
+C:\Users\makka\source\repos\FileSystemExplorer\FileSystemExplorer\obj\Debug\net10.0\FileSystemExplorer.csproj.CoreCompileInputs.cache
+C:\Users\makka\source\repos\FileSystemExplorer\FileSystemExplorer\bin\Debug\net10.0\FileSystemExplorer.exe
+C:\Users\makka\source\repos\FileSystemExplorer\FileSystemExplorer\bin\Debug\net10.0\FileSystemExplorer.deps.json
+C:\Users\makka\source\repos\FileSystemExplorer\FileSystemExplorer\bin\Debug\net10.0\FileSystemExplorer.runtimeconfig.json
+C:\Users\makka\source\repos\FileSystemExplorer\FileSystemExplorer\bin\Debug\net10.0\FileSystemExplorer.dll
+C:\Users\makka\source\repos\FileSystemExplorer\FileSystemExplorer\bin\Debug\net10.0\FileSystemExplorer.pdb
+C:\Users\makka\source\repos\FileSystemExplorer\FileSystemExplorer\obj\Debug\net10.0\FileSystemExplorer.dll
+C:\Users\makka\source\repos\FileSystemExplorer\FileSystemExplorer\obj\Debug\net10.0\refint\FileSystemExplorer.dll
+C:\Users\makka\source\repos\FileSystemExplorer\FileSystemExplorer\obj\Debug\net10.0\FileSystemExplorer.pdb
+C:\Users\makka\source\repos\FileSystemExplorer\FileSystemExplorer\obj\Debug\net10.0\FileSystemExplorer.genruntimeconfig.cache
+C:\Users\makka\source\repos\FileSystemExplorer\FileSystemExplorer\obj\Debug\net10.0\ref\FileSystemExplorer.dll
