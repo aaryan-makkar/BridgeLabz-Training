@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EmployeeAttendanceAndOvertimeCalculator/EmployeeAttendanceAndOvertimeCalculator.csproj" />
+  <Project Path="EmployeeAttendanceAndOverTimeCalculatorTests/EmployeeAttendanceAndOverTimeCalculatorTests.csproj" />
+</Solution>

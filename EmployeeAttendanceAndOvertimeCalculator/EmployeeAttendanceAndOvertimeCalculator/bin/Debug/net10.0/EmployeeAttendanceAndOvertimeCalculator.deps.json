@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EmployeeAttendanceAndOvertimeCalculator/1.0.0": {
+        "runtime": {
+          "EmployeeAttendanceAndOvertimeCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeAttendanceAndOvertimeCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
